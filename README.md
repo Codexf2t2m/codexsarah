@@ -1,11 +1,11 @@
 # Real-time Voice Assistant with Next.js and ElevenLabs
 **Welcome to CodeX** 
 Team members are: 
-Topo Rapula 
-Tautona Tautona
-Fatima Angamia
-Ookeditse 
-Mphoentle Mooketsi
+Topo Rapula (Front-end developer and Ai engineer)
+Tautona Tautona (Front-end and backend developer)
+Refilwe Goitsemang (Back-end developer and Solutionist)
+Fatima Angamia (AI/ML Engineer)
+Ookeditse Mphoentle Mooketsi (UI/UX designer)
 
 This is a Next.js project using TypeScript and TailwindCSS.
  
